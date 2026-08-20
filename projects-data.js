@@ -191,7 +191,6 @@ window.PORTFOLIO_PROJECTS = [
       { type: "image", src: "assets/gallery/mural-dgai/02.jpg", alt: "Mural DGAI: vista 2", caption: "Proceso y exploraciones", size: "tall" },
       { type: "image", src: "assets/gallery/mural-dgai/03.jpg", alt: "Mural DGAI: vista 3", caption: "Relaciones y decisiones", size: "standard" },
       { type: "image", src: "assets/gallery/mural-dgai/04.jpg", alt: "Mural DGAI: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
-      { type: "video", src: "assets/media/motion-study.mp4", poster: "assets/gallery/mural-dgai/03.jpg", caption: "Estudio de movimiento / placeholder", size: "wide" }
     ], size: "wide"
   },
   

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Archivo de proyectos de Arturo Céspedes.">
+  <meta name="theme-color" content="#f7f6f2">
+  <title>Proyectos — Arturo Céspedes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="projects-data.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body class="page page-projects">
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <header class="site-header shell">
+    <a class="wordmark" href="index.html">Arturo Céspedes</a>
+    <nav class="desktop-nav" aria-label="Navegación principal">
+      <a href="index.html">Inicio</a><a class="is-active" href="proyectos.html" aria-current="page">Proyectos</a><a href="sobre-mi.html">Sobre mí</a><a href="#contacto">Contacto</a>
+    </nav>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="mobile-menu">Menú</button>
+  </header>
+  <aside class="mobile-menu" id="mobile-menu" aria-hidden="true">
+    <button class="menu-close" type="button">Cerrar ×</button>
+    <nav><a href="index.html"><span>00</span>Inicio</a><a href="proyectos.html"><span>01</span>Proyectos</a><a href="sobre-mi.html"><span>02</span>Sobre mí</a><a href="#contacto"><span>03</span>Contacto</a></nav>
+  </aside>
+
+  <main id="main" class="archive shell">
+    <section class="archive-hero reveal">
+      <span class="eyebrow">Archivo / 15 proyectos</span>
+      <h1>Todos los proyectos.</h1>
+      <p>Una selección de investigación, sistemas digitales, proyectos editoriales, identidades y exploraciones multimedia desarrolladas entre 2023 y 2026.</p>
+    </section>
+
+    <section class="archive-controls reveal" aria-label="Filtros de proyectos">
+      <div class="filter-row" data-filter-row></div>
+      <p><span data-project-count>15</span> resultados</p>
+    </section>
+
+    <section class="featured-archive" aria-labelledby="featured-archive-title">
+      <header class="section-bar reveal"><h2 id="featured-archive-title">Trabajo destacado</h2><span><b data-featured-count>04</b> proyectos</span></header>
+      <div class="featured-archive-grid" data-featured-archive></div>
+    </section>
+
+    <section class="archive-index" aria-labelledby="archive-index-title">
+      <header class="section-bar reveal"><h2 id="archive-index-title">Archivo completo</h2><span><b data-archive-count>11</b> proyectos</span></header>
+      <div class="archive-list" data-archive-list></div>
+    </section>
+
+    <section class="archive-end reveal">
+      <span>↓</span><p>Fin del archivo.<br>Gracias por explorar.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer shell" id="contacto">
+    <span>© 2026 Arturo Céspedes</span><span>Viña del Mar, Chile</span><div>
+  <a
+    href="https://www.linkedin.com/in/arturo-céspedes-f"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    LinkedIn
+  </a>
+
+  <a href="mailto:a.cespedes@ead.cl">
+    Email
+  </a>
+</div>
+  </footer>
+</body>
+</html>

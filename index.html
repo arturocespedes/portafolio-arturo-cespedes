@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Portafolio de Arturo Céspedes: diseño de interacción, investigación, sistemas editoriales y comunicación visual.">
+  <meta name="theme-color" content="#f7f6f2">
+  <title>Arturo Céspedes — Portafolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="projects-data.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body class="page page-home">
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <header class="site-header shell">
+    <a class="wordmark" href="index.html" aria-current="page">Arturo Céspedes</a>
+    <nav class="desktop-nav" aria-label="Navegación principal">
+      <a class="is-active" href="index.html">Inicio</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="sobre-mi.html">Sobre mí</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="mobile-menu">Menú</button>
+  </header>
+
+  <aside class="mobile-menu" id="mobile-menu" aria-hidden="true">
+    <button class="menu-close" type="button" aria-label="Cerrar menú">Cerrar ×</button>
+    <nav aria-label="Navegación móvil">
+      <a href="index.html"><span>00</span>Inicio</a>
+      <a href="proyectos.html"><span>01</span>Proyectos</a>
+      <a href="sobre-mi.html"><span>02</span>Sobre mí</a>
+      <a href="#contacto"><span>03</span>Contacto</a>
+    </nav>
+  </aside>
+
+  <main id="main">
+    <section class="orbit-entry" aria-label="Proyectos seleccionados en movimiento">
+      <div class="orbit-interface shell">
+        <p class="orbit-interface-title">Portafolio de diseño</p>
+        <p class="orbit-project-title" data-orbit-title>Explora mis proyectos</p>
+      </div>
+      <div class="orbit-viewport" data-orbit-viewport>
+        <div class="orbit-track" data-orbit-track>
+          <div class="orbit-group" data-orbit-group></div>
+          <div class="orbit-group orbit-group-clone" data-orbit-clone aria-hidden="true"></div>
+        </div>
+      </div>
+      <button class="orbit-toggle" type="button" data-orbit-toggle aria-pressed="false">
+        <span aria-hidden="true" data-orbit-icon>Ⅱ</span>
+        <span data-orbit-label>Pausar movimiento</span>
+      </button>
+    </section>
+
+    <section class="home-intro shell reveal" aria-labelledby="intro-title">
+      
+      <div class="home-intro-grid">
+        <h1 id="intro-title">Diseño<br>Interacción<br>Territorio<br>Medios digitales<br></h1>
+        <div class="intro-aside">
+          <p>Soy Arturo Céspedes, diseñador de interacción. Me interesa la creación gráfica digital, sistemas de diseño, la visualización y comunicación .</p>
+          <a class="arrow-link" href="sobre-mi.html">Conocer sobre mi <span>↓</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="selected-work shell" aria-labelledby="selected-title">
+      <header class="section-bar reveal">
+        <h2 id="selected-title">Proyectos seleccionados</h2>
+        <a href="proyectos.html">Ver todos los proyectos ↗</a>
+      </header>
+      <div class="selected-grid" data-selected-grid></div>
+    </section>
+
+    
+  </main>
+
+  <footer class="site-footer shell">
+    <span>© 2026 Arturo Céspedes</span>
+    <span>Viña del Mar, Chile</span>
+    <div>
+  <a
+    href="https://www.linkedin.com/in/arturo-céspedes-f"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    LinkedIn
+  </a>
+
+  <a href="mailto:a.cespedes@ead.cl">
+    Email
+  </a>
+</div>
+  </footer>
+</body>
+</html>

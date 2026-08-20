@@ -165,11 +165,11 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/istmo-ofqui-archive.jpg",
     hero: "assets/projects/istmo-ofqui-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/istmo-ofqui/01.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/istmo-ofqui/02.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/istmo-ofqui/03.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/istmo-ofqui/04.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
-      { type: "video", src: "assets/media/video-istmo.mp4", poster: "assets/gallery/istmo-ofqui/03.jpg", caption: "Estudio de movimiento / placeholder", size: "wide" }
+      { type: "image", src: "assets/gallery/istmo-ofqui/01.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 1", caption: "PROTOTIPO FÍSICO", size: "wide" },
+      { type: "image", src: "assets/gallery/istmo-ofqui/02.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 2", caption: "PROTOTIPO FÍSICO", size: "tall" },
+      { type: "image", src: "assets/gallery/istmo-ofqui/03.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 3", caption: "PROTOTIPO FÍSICO", size: "standard" },
+      { type: "image", src: "assets/gallery/istmo-ofqui/04.jpg", alt: "¿Qué esconde el Istmo de Ofqui?: vista 4", caption: "PROTOTIPO FÍSICO", size: "wide" },
+      { type: "video", src: "assets/media/video-istmo.mp4", poster: "assets/gallery/istmo-ofqui/03.jpg", caption: "VIDEO DE PRESENTACIÓN", size: "wide" }
     ], size: "tall"
   },
   {
@@ -187,10 +187,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/mural-dgai-archive.jpg",
     hero: "assets/projects/mural-dgai-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/mural-dgai/01.jpg", alt: "Mural DGAI: vista 1", caption: "PANTALLAS", size: "wide" },
-      { type: "image", src: "assets/gallery/mural-dgai/02.jpg", alt: "Mural DGAI: vista 2", caption: "CONCEPTOS CLAVE", size: "tall" },
-      { type: "image", src: "assets/gallery/mural-dgai/03.jpg", alt: "Mural DGAI: vista 3", caption: "SISTEMA GRÁFICO", size: "standard" },
-      { type: "image", src: "assets/gallery/mural-dgai/04.jpg", alt: "Mural DGAI: vista 4", caption: "PANTALLAS", size: "wide" },
+      { type: "image", src: "assets/gallery/mural-dgai/01.jpg", alt: "Mural DGAI: vista 1", caption: "PROPUESTA DE TEXTURA", size: "wide" },
+      { type: "image", src: "assets/gallery/mural-dgai/02.jpg", alt: "Mural DGAI: vista 2", caption: "PROCESO DE PINTADO", size: "tall" },
+      { type: "image", src: "assets/gallery/mural-dgai/03.jpg", alt: "Mural DGAI: vista 3", caption: "PROCESO DE PINTADO", size: "standard" },
+      { type: "image", src: "assets/gallery/mural-dgai/04.jpg", alt: "Mural DGAI: vista 4", caption: "PROCESO DE PINTADO", size: "wide" },
     ], size: "wide"
   },
   

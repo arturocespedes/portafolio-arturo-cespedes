@@ -4,7 +4,7 @@ window.PORTFOLIO_PROJECTS = [
     categories: ["Investigación", "UX/UI", "Producto digital", "Cartografía"], context: "Investigación-creación, proyecto de título (2025) y adjudicado a fondos para su continuación 2026",
     role: "Visualización de datos, arquitectura de información y propuesta de navegación", result: "Plataforma web en desarrollo",
     description: "Investigación-creación que visualiza relaciones socioecológicas del extractivismo mediante cartografía crítica, datos, dibujo y una plataforma digital interactiva.",
-    statement: "Proyecto de investigación y creación desde el diseño que explora cómo visualizar las afectaciones socioecológicas producidas por el extractivismo en distintos territorios. A través de una plataforma web, el proyecto articula cartografía crítica, dibujo, visualización de datos y materiales como el cobre y el carbón para conectar actores humanos y más-que-humanos, comparando casos del Norte y Sur Global. La visualización crítica en narrada a partir de procesos físicos del material extraído, siendo monocopias en cobre por el proceso de pátina/corrosón, los medios para realizar dibujos digitales.",
+    statement: "Proyecto de investigación y creación desde el diseño que explora cómo visualizar las afectaciones socioecológicas producidas por el extractivismo en distintos territorios. A través de una plataforma web, el proyecto articula cartografía crítica, dibujo, visualización de datos y materiales como el cobre y el carbón para conectar actores humanos y más-que-humanos, comparando casos del Norte y Sur Global. La visualización crítica en narrada a partir de procesos físicos del material extraído, siendo monocopias en cobre por el proceso de pátina/corrosión la que se utiliza en Chile en relación al extractivismo minero, esto se une como un medio para realizar dibujos digitales críticas de la representación.",
     process: [
       { title: "Afectaciones socioecológicas", description: "Visualización de las relaciones y afectaciones producidas por el extractivismo en distintos territorios y entre actores humanos y más-que-humanos." },
       { title: "Cartografía crítica y datos", description: "Articulación de cartografía, dibujo, experimentación material con visualización de datos para construir distintas formas de lectura territorial." },
@@ -79,10 +79,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/festival-cantar-estudiantil-archive.jpg",
     hero: "assets/projects/festival-cantar-estudiantil-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/01.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/02.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/03.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/04.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
+      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/01.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 1", caption: "AFICHE PRINCIPAL", size: "wide" },
+      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/02.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 2", caption: "APLICACIONES", size: "tall" },
+      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/03.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 3", caption: "SISTEMA GRÁFICO", size: "standard" },
+      { type: "image", src: "assets/gallery/festival-cantar-estudiantil/04.jpg", alt: "56.º Festival del Cantar Estudiantil: vista 4", caption: "SISTEMA GRÁFICO", size: "wide" },
     ], size: "standard"
   },
   
@@ -101,10 +101,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/entramados-materiales-archive.jpg",
     hero: "assets/projects/entramados-materiales-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/entramados-materiales/01.jpg", alt: "Entramados Materiales: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/entramados-materiales/02.jpg", alt: "Entramados Materiales: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/entramados-materiales/03.jpg", alt: "Entramados Materiales: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/entramados-materiales/04.jpg", alt: "Entramados Materiales: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
+      { type: "image", src: "assets/gallery/entramados-materiales/01.jpg", alt: "Entramados Materiales: vista 1", caption: "PANTALLA", size: "wide" },
+      { type: "image", src: "assets/gallery/entramados-materiales/02.jpg", alt: "Entramados Materiales: vista 2", caption: "PANTALLA", size: "tall" },
+      { type: "image", src: "assets/gallery/entramados-materiales/03.jpg", alt: "Entramados Materiales: vista 3", caption: "PANTALLA", size: "standard" },
+      { type: "image", src: "assets/gallery/entramados-materiales/04.jpg", alt: "Entramados Materiales: vista 4", caption: "PANTALLA", size: "wide" },
     ], featured: true, size: "standard"
   },
   {
@@ -122,10 +122,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/rio-sonidos-trasegados-archive.jpg",
     hero: "assets/projects/rio-sonidos-trasegados-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/01.jpg", alt: "El río de los sonidos trasegados: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/02.jpg", alt: "El río de los sonidos trasegados: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/03.jpg", alt: "El río de los sonidos trasegados: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/04.jpg", alt: "El río de los sonidos trasegados: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
+      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/01.jpg", alt: "El río de los sonidos trasegados: vista 1", caption: "PANTALLA", size: "wide" },
+      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/02.jpg", alt: "El río de los sonidos trasegados: vista 2", caption: "PORTADA", size: "tall" },
+      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/03.jpg", alt: "El río de los sonidos trasegados: vista 3", caption: "PANTALLA", size: "standard" },
+      { type: "image", src: "assets/gallery/rio-sonidos-trasegados/04.jpg", alt: "El río de los sonidos trasegados: vista 4", caption: "PANTALLA", size: "wide" },
     ], size: "standard"
   },
   
@@ -144,10 +144,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/miel-reina-archive.jpg",
     hero: "assets/projects/miel-reina-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/miel-reina/01.jpg", alt: "Miel Reina: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/miel-reina/02.jpg", alt: "Miel Reina: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/miel-reina/03.jpg", alt: "Miel Reina: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/miel-reina/04.jpg", alt: "Miel Reina: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
+      { type: "image", src: "assets/gallery/miel-reina/01.jpg", alt: "Miel Reina: vista 1", caption: "APLICACIÓN", size: "wide" },
+      { type: "image", src: "assets/gallery/miel-reina/02.jpg", alt: "Miel Reina: vista 2", caption: "APLICACIÓN", size: "tall" },
+      { type: "image", src: "assets/gallery/miel-reina/03.jpg", alt: "Miel Reina: vista 3", caption: "APLICACIÓN", size: "standard" },
+      { type: "image", src: "assets/gallery/miel-reina/04.jpg", alt: "Miel Reina: vista 4", caption: "APLICACIÓN", size: "wide" },
     ], size: "standard"
   },
   {
@@ -187,10 +187,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/mural-dgai-archive.jpg",
     hero: "assets/projects/mural-dgai-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/mural-dgai/01.jpg", alt: "Mural DGAI: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/mural-dgai/02.jpg", alt: "Mural DGAI: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/mural-dgai/03.jpg", alt: "Mural DGAI: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/mural-dgai/04.jpg", alt: "Mural DGAI: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
+      { type: "image", src: "assets/gallery/mural-dgai/01.jpg", alt: "Mural DGAI: vista 1", caption: "PANTALLAS", size: "wide" },
+      { type: "image", src: "assets/gallery/mural-dgai/02.jpg", alt: "Mural DGAI: vista 2", caption: "CONCEPTOS CLAVE", size: "tall" },
+      { type: "image", src: "assets/gallery/mural-dgai/03.jpg", alt: "Mural DGAI: vista 3", caption: "SISTEMA GRÁFICO", size: "standard" },
+      { type: "image", src: "assets/gallery/mural-dgai/04.jpg", alt: "Mural DGAI: vista 4", caption: "PANTALLAS", size: "wide" },
     ], size: "wide"
   },
   

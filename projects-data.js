@@ -14,11 +14,11 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/atlas-post-extractivismo-archive.jpg",
     hero: "assets/projects/atlas-post-extractivismo-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/atlas-post-extractivismo/01.jpg", alt: "Atlas del Post-Extractivismo: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/atlas-post-extractivismo/02.jpg", alt: "Atlas del Post-Extractivismo: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/atlas-post-extractivismo/03.jpg", alt: "Atlas del Post-Extractivismo: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/atlas-post-extractivismo/04.jpg", alt: "Atlas del Post-Extractivismo: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
-      { type: "video", src: "assets/media/video-post.mp4", poster: "assets/gallery/atlas-post-extractivismo/03.jpg", caption: "Estudio de movimiento / placeholder", size: "wide" }
+      { type: "image", src: "assets/gallery/atlas-post-extractivismo/01.jpg", alt: "Atlas del Post-Extractivismo: vista 1", caption: "VISTA LOCAL “PUERTO PUNTA CHUNGO”", size: "wide" },
+      { type: "image", src: "assets/gallery/atlas-post-extractivismo/02.jpg", alt: "Atlas del Post-Extractivismo: vista 2", caption: "MONOCOPIA DE COBRE", size: "tall" },
+      { type: "image", src: "assets/gallery/atlas-post-extractivismo/03.jpg", alt: "Atlas del Post-Extractivismo: vista 3", caption: "VISTA ESCENA “PERTURBACIÓN AÉREA”", size: "standard" },
+      { type: "image", src: "assets/gallery/atlas-post-extractivismo/04.jpg", alt: "Atlas del Post-Extractivismo: vista 4", caption: "DISEÑO DE INTERFAZ CON MONOCOPIAs", size: "wide" },
+      { type: "video", src: "assets/media/video-post.mp4", poster: "assets/gallery/atlas-post-extractivismo/03.jpg", caption: "NAVEGACIÓN WEB", size: "wide" }
     ], featured: true, size: "wide"
   },
   {
@@ -36,10 +36,10 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/chompi-archive.jpg",
     hero: "assets/projects/chompi-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/chompi/01.jpg", alt: "Chompi: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/chompi/02.jpg", alt: "Chompi: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/chompi/03.jpg", alt: "Chompi: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/chompi/04.jpg", alt: "Chompi: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
+      { type: "image", src: "assets/gallery/chompi/01.jpg", alt: "Chompi: vista 1", caption: "¿QUÉ ES CHOMPI?", size: "wide" },
+      { type: "image", src: "assets/gallery/chompi/02.jpg", alt: "Chompi: vista 2", caption: "PANTALLAS", size: "tall" },
+      { type: "image", src: "assets/gallery/chompi/03.jpg", alt: "Chompi: vista 3", caption: "PANTALLAS", size: "standard" },
+      { type: "image", src: "assets/gallery/chompi/04.jpg", alt: "Chompi: vista 4", caption: "VALOR", size: "wide" },
     ], featured: true,size: "standard"
   },
   {

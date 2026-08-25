@@ -57,11 +57,11 @@ window.PORTFOLIO_PROJECTS = [
     coverArchive: "assets/projects/cascanueces-archive.jpg",
     hero: "assets/projects/cascanueces-hero.jpg",
     gallery: [
-      { type: "image", src: "assets/gallery/cascanueces/01.jpg", alt: "Cascanueces: vista 1", caption: "Sistema general", size: "wide" },
-      { type: "image", src: "assets/gallery/cascanueces/02.jpg", alt: "Cascanueces: vista 2", caption: "Proceso y exploraciones", size: "tall" },
-      { type: "image", src: "assets/gallery/cascanueces/03.jpg", alt: "Cascanueces: vista 3", caption: "Relaciones y decisiones", size: "standard" },
-      { type: "image", src: "assets/gallery/cascanueces/04.jpg", alt: "Cascanueces: vista 4", caption: "Resultado y aplicaciones", size: "wide" },
-      { type: "video", src: "assets/media/video-csc.mp4", poster: "assets/gallery/cascanueces/03.jpg", caption: "Estudio de movimiento / placeholder", size: "wide" }
+      { type: "image", src: "assets/gallery/cascanueces/01.jpg", alt: "Cascanueces: vista 1", caption: "PANTALLAS", size: "wide" },
+      { type: "image", src: "assets/gallery/cascanueces/02.jpg", alt: "Cascanueces: vista 2", caption: "FUNDAMENTOS DE PROPUESTA", size: "tall" },
+      { type: "image", src: "assets/gallery/cascanueces/03.jpg", alt: "Cascanueces: vista 3", caption: "SISTEMA GRÁFICO", size: "standard" },
+      { type: "image", src: "assets/gallery/cascanueces/04.jpg", alt: "Cascanueces: vista 4", caption: "PANTALLAS", size: "wide" },
+      { type: "video", src: "assets/media/video-csc.mp4", poster: "assets/gallery/cascanueces/03.jpg", caption: "GESTUALIDAD DE WIDGET/APP", size: "wide" }
     ], featured: true, size: "wide"
   },
   {
